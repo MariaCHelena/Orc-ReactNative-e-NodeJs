@@ -1,4 +1,4 @@
-import { Text, SafeAreaView } from "react-native"
+import { Text, SafeAreaView, View } from "react-native"
 
 const App = () => {
     return(
